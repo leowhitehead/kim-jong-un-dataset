@@ -11,3 +11,6 @@ This is a dataset containing labelled images of Supreme Leader Kim Jong Un looki
 
 ### tiles
 ![tiles](dataset/tiles.jpg)
+
+### piano
+![piano](datasets/[piano.jpg)
